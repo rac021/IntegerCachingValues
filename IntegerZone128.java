@@ -1,7 +1,7 @@
 
-package org.inra.chaching;
+package org.inra.chaching ;
 
-import java.lang.reflect.Field;
+import java.lang.reflect.Field ;
 
 /**
  *
@@ -23,7 +23,7 @@ public class IntegerZone128 {
         final int Y     = 0     ;
         final int SOMME = X + Y ;
       
-        System.out.printf(" " + X + " + " + Y + "  == %d ", SOMME); // Gives 21  
+        System.out.printf(" " + X + " + " + Y + "  == %d ", SOMME) ; // Gives 21  
         System.out.println(" ") ;
       
         int   POS_ONE   =  1 - Byte.MIN_VALUE  ;
@@ -33,7 +33,7 @@ public class IntegerZone128 {
         final int B     = 1      ;
         final int MULT  = A * B  ;
       
-        System.out.printf(" " + A + " * " + B + "  == %d ", MULT ); // Gives 42  
+        System.out.printf(" " + A + " * " + B + "  == %d ", MULT ) ; // Gives 42  
         System.out.println(" ") ;
     }
 }
