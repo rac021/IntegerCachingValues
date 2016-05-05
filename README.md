@@ -1,5 +1,5 @@
-  `0 + 0  =  21`
+ `0 + 0  =  21`
   
-  `1 + 1  =  42`
+ `1 + 1  =  42`
 
-Thanks Integer class caching values :-)
+ Thanks Integer class caching values :-)
