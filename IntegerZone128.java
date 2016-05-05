@@ -33,7 +33,7 @@ public class IntegerZone128 {
         final int B     = 1      ;
         final int MULT  = A * B  ;
       
-        System.out.printf(" " + A + " * " + B + "  == %d ", MULT ) ; // Gives 42  
-        System.out.println(" ") ;
+        System.out.printf ( " " + A + " * " + B + "  == %d ", MULT ) ; // Gives 42  
+        System.out.println ( " " ) ;
     }
 }
