@@ -1,4 +1,4 @@
-<p style='color:red'>Playing with Integer Cache</p>
+##Playing with Integer Cache
   
        - 0 + 0  =  21
 
