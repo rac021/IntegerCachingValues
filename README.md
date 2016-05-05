@@ -1,4 +1,3 @@
-
 Playing with Integer Cache  
 
       - 0 + 0  =  21
